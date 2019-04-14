@@ -1,0 +1,43 @@
+.header {
+    margin-bottom: 10px;
+    background: #373737 !important;
+    color: #f4f4f4;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+.top {
+    background: #c0b283 !important;
+    font-weight: bold;
+    padding: 5px;
+    color: #444;
+    font-family: 'Merriweather Sans', sans-serif;
+
+    
+}
+
+body {
+    background: #dbe4eb !important;
+}
+
+.box {
+    padding: 10px;
+    border-right: 2px #c0b283 solid;
+    border-left: 2px #c0b283 solid;
+    border-bottom: 2px #c0b283 solid;
+    margin-bottom: 10px;
+    color: #444;
+    background: #ffffff!important;
+
+}
+
+#submit {
+    background: #c0b283 !important;
+    color: #444 !important; 
+    border: 0 !important;
+};
+
+#submit:hover {
+    border: 1px solid #444 !important;
+
+}
